@@ -1,7 +1,7 @@
 # 2d_demo
 ### By Mateusz "Blahkhan" Oleksa
 
-Wersja unity 2020.2.6f1
+Wersja Unity 2020.2.6f1
 
 ### Wymagania: 
 
