@@ -1,9 +1,9 @@
 # 2d_demo
-## by Mateusz "Blahkhan" Oleksa
+## By Mateusz "Blahkhan" Oleksa
 
 Wersja unity 2020.2.6f1
 
-Wymagania: 
+### Wymagania: 
 
 - Wykorzystanie systemu GIT do stworzenia projektu
 
@@ -30,7 +30,7 @@ Wymagania:
 - Animacje zmieniają się w zależności od stanu postaci 
 
 
-Lista dodatkowych zadań: 
+### Lista dodatkowych zadań: 
 
 - Dodanie obsługi Gamepada 
 
